@@ -13,4 +13,8 @@ Dashboard Features: The card usage dashboard should include the following featur
 1. Filters: Provide filters for card type selection (credit or debit) and bank selection (if the management wants to compare HDFC Bank's performance with any specific bank).
 2. Visualizations: Utilize visually appealing and informative charts, graphs, and tables to present the data effectively. Line charts, bar charts, pie charts, and tables can be used to represent different KPIs and their trends.
 3. Interactive Elements: Make the dashboard interactive by enabling drill-down options, hover-over tooltips, and clickable elements for enhanced user experience. This will allow users to explore specific data points in more detail.
+
 4. Data Refresh: Implement a data refresh mechanism to ensure that the dashboard always displays up-to-date information. The dashboard should fetch the latest data automatically and reflect any changes in real-time
+![Screenshot 2024-06-22 204048](https://github.com/Chandrashekhar-GT/Bench_Marking_HDFC/assets/109585845/d9e09ada-0b01-483e-a3d4-7efa8b9d1a3c)
+![Screenshot 2024-06-22 204001](https://github.com/Chandrashekhar-GT/Bench_Marking_HDFC/assets/109585845/659f094d-e2b8-45db-b1e0-d283546d6130)
+![Screenshot 2024-06-22 203843](https://github.com/Chandrashekhar-GT/Bench_Marking_HDFC/assets/109585845/8507710f-9be4-46c5-8694-ac5f40da00ab)
