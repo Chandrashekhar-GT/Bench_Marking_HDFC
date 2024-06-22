@@ -1,4 +1,6 @@
 # Bench_Marking_HDFC
+![image](https://github.com/Chandrashekhar-GT/Bench_Marking_HDFC/assets/109585845/0f0ddc70-1cfa-418a-95d2-efd2bcd1ad44)
+
       
 # Project Description: Card Usage Dashboard for HDFC Bank
 Situation: As a leading bank in India, HDFC Bank aims to maintain its competitive edge and make data-driven decisions. However, there is currently no direct way for the bank's management to assess its performance in the debit and credit cards segment relative to the broader banking industry. This lack of visibility hampers strategic planning and decision-making processes.
